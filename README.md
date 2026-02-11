@@ -1,4 +1,4 @@
-# Votex - Blockchain-Based Secure Voting System
+# Votex - Blockchain-Based Voting System
 
 Votex is a secure, transparent, and tamper-proof voting system built on blockchain technology. It leverages cryptographic principles to ensure vote integrity, voter authentication, and transparent election processes.
 
